@@ -56,7 +56,7 @@ def gen_toc(filename):
     with open(filename, 'w') as f:
         f.write(md[:i])
         for item in _gen_items(md):
-            if 'Awesome Math' in item:
+            if 'Awesome Scientific Python' in item:
                 continue
             f.write(item + '\n')
         f.write('\n' + md[j:])
