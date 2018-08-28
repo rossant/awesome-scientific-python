@@ -143,13 +143,20 @@ A curated list of awesome scientific Python resources.
 
 * [PyMC3](http://docs.pymc.io/) - Bayesian statistical modeling.
 
+### Compilation
+
+* [Numba](https://numba.pydata.org/) - JIT compilation of Python code
+* [Cython](http://cython.org/) - Combine C and Python
+
 ### Parallel computing
 
+* [ipyparallel](https://ipyparallel.readthedocs.io/en/latest/) - Parallel computing with IPython
 * [Dask](https://github.com/dask/dask) - Parallel computing with task scheduling.
 
 ### GPU computing
 
 * [CuPy](https://cupy.chainer.org/) - NumPy-like library with CUDA.
+* [PyCUDA](https://developer.nvidia.com/pycuda) - Use CUDA with Python.
 
 
 ## Domain-specific libraries
@@ -157,16 +164,50 @@ A curated list of awesome scientific Python resources.
 ### Geospatial data
 
 * [GeoPandas](https://geopandas.readthedocs.io/en/latest/) - pandas for geospatial data.
+* [Shapely](https://github.com/Toblerity/Shapely) - Manipulation and analysis of geometric objects.
+* [Folium](http://python-visualization.github.io/folium/) - Interactive maps in Python with leaflet.js.
 
 ### Astrophysics
 
+* [Astropy](http://www.astropy.org/) - Core package for astronomy.
+* [AstroML](http://www.astroml.org/) - Machine learning for astronomy
+
 ### Molecular simulations
+
+* [MGLTools](http://mgltools.scripps.edu/) - Visualization and analysis of molecular structures.
+* [MDAnalysis](https://www.mdanalysis.org/) - Molecular dynamics simulations
+* [pysimm](https://pysimm.org/) - Molecular simulations
+* [PyMOL](https://pymol.org/2/) - Molecular visualization
+* [Molecular Modeling Toolkit](https://bitbucket.org/khinsen/mmtk)
 
 ### Bioinformatics
 
+* [Biopython](https://biopython.org/) - Biological computations.
+* [PyBioMed](https://pybiomed.readthedocs.io/en/latest/index.html) - Descriptors of biological molecules.
+* [khmer](https://github.com/dib-lab/khmer) - k-mer counting, filtering, and graph traversal.
+
+### Neuroimaging]
+
+* [NiBabel](https://github.com/nipy/nibabel) - Neuro-imaging file formats.
+* [Nilearn](https://nilearn.github.io/) - Machine learning for neuro-imaging.
+* [NiTime](http://nipy.org/nitime/) - Time series.
+* [MNE](https://github.com/mne-tools/mne-python) - MEG and EEG.
+* [DIPY](https://github.com/nipy/dipy) - Diffusion MR imaging.
+* [Expyriment](https://github.com/expyriment/expyriment) - Behavioral and neuroimaging experiments.
+
 ### Neuroscience
 
+* [Brian2](https://github.com/brian-team/brian2) - Simulations of spiking neural networks.
+* [phy](https://phy.readthedocs.io/en/latest/) - Manual spike sorting for high-density multielectrode arrays.
+* [NeuroTools](https://pythonhosted.org/NeuroTools/) - Tools for neural simulations.
+* [Neo](https://neo.readthedocs.io) - File formats for neuroscience.
+* [PsychoPy](http://psychopy.org/) - Psychology and neuroscience experiments.
+* [Nengo](https://github.com/nengo/nengo) - Simulation of large-scale brain models
+* [PyGaze(http://www.pygaze.org/) - Eye tracking.
+
 ### Mathematics
+
+* [Sage](http://www.sagemath.org) - Mathematics software system.
 
 
 # Books
