@@ -121,6 +121,7 @@ A curated list of awesome scientific Python resources.
 
 * [ipyvolume](https://ipyvolume.readthedocs.io/en/latest/) - 3D visualization with Jupyter.
 * [VisPy](http://vispy.org/) - Interactive GPU-accelerated visualization.
+* [Glumpy](http://glumpy.github.io/) - Scientific visualization in modern OpenGL.
 
 ### Image processing
 
@@ -142,6 +143,7 @@ A curated list of awesome scientific Python resources.
 ### Statistics
 
 * [PyMC3](http://docs.pymc.io/) - Bayesian statistical modeling.
+* [statsmodels](http://www.statsmodels.org/) - Statistical models.
 
 ### Compilation
 
@@ -203,27 +205,64 @@ A curated list of awesome scientific Python resources.
 * [Neo](https://neo.readthedocs.io) - File formats for neuroscience.
 * [PsychoPy](http://psychopy.org/) - Psychology and neuroscience experiments.
 * [Nengo](https://github.com/nengo/nengo) - Simulation of large-scale brain models
-* [PyGaze(http://www.pygaze.org/) - Eye tracking.
+* [PyGaze](http://www.pygaze.org/) - Eye tracking.
 
 ### Mathematics
 
 * [Sage](http://www.sagemath.org) - Mathematics software system.
+* [mpmath](http://mpmath.org/) - arithmetic with arbitrary precision.
 
+
+## Lists of libraries
+
+* [Python Numeric and Scientific](https://wiki.python.org/moin/NumericAndScientific) - on python.org.
+* [Scientific Computing Tools for Python](https://www.scipy.org/about.html) - on scipy.org.
+* [Useful libraries for data science in Python](https://github.com/rasbt/pattern_classification/blob/master/resources/python_data_libraries.md) - by Sebastian Raschka.
+* [Python for Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - by Fabian-Robert Stöter.
 
 # Books
 
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas, O'Reilly, 2016, 541 pages.
+* [Python for Data Analysis](http://shop.oreilly.com/product/0636920050896.do) - William McKinney, O'Reilly, 2017, 544 pages (second edition).
+* [Learning IPython for Interactive Computing and Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/learning-ipython-interactive-computing-and-data-visualization-sec), Cyrille Rossant, Packt Publishing, 2015, 200 pages (second edition).
+* [IPython Interactive Computing and Visualization Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/ipython-interactive-computing-and-visualization-cookbook-second-e), Cyrille Rossant, Packt Publishing, 2018, 548 pages (second edition).
+* [A Primer on Scientific Programming with Python](https://www.springer.com/gp/book/9783642549595) - Hans Petter Langtangen, Springer, 2014, 872 pages.
+* [Exploring Data with Python](https://www.manning.com/books/exploring-data-with-python) - Naomi Ceder, Manning 2018, 110 pages.
+* [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python) - François Chollet, Manning, 2017, 384 pages.
+* [Python Machine Learning](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-second-edition) - Sebastian Raschka & Vahid Mirjalili, Packt Publishing, 2017, 622 pages (second edition).
 
-# Lectures
+# Courses
 
+* [Stat 159/259, Reproducible and Collaborative Data Science](https://berkeley-stat159-f17.github.io/stat159-f17/index.html) - Fernando Perez, Berkeley University, 2017.
+* [CME 193, Introduction to Scientific Python](https://web.stanford.edu/~schmit/cme193/) - Stanford University, Sven Schmit, 2015.
+* [Using Python for Research](https://online-learning.harvard.edu/course/using-python-research) - Jukka-Pekka Onnela, Harvard University Online Learning.
+* [Introduction to Data Analytics and Machine Learning with Python](https://www.city.ac.uk/courses/short-courses/introduction-to-data-analysis-and-machine-learning-with-python) - University of London.
+* [PHY 546: Python for Scientific Computing](http://bender.astro.sunysb.edu/classes/python-science/) - Stony Brook University, Michael Zingale, 2018.
+* [Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) - Luke Thompson, NOAA.
+* [Coursera Data Science with Python](https://www.coursera.org/specializations/data-science-python) - University of Michigan.
+* [edX Python for Data Science](https://www.edx.org/course/python-for-data-science) - UC San Diego, Ilkay Altintas, Leo Porter.
+* [edX Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-data-science-computational-uc-berkeleyx-data8-1x) - UC Berkeley, Ani Adhikari, John DeNero, David Wagner.
+* [Python Course](https://www.python-course.eu/index.php) - Bernd Klein.
+* [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) - DataCamp, Filip Schouwenaars.
+* [Schools using Python](https://wiki.python.org/moin/SchoolsUsingPython) - on python.org.
 
 # Tutorials
 
+* [SciPy Lecture Notes](https://www.scipy-lectures.org/)
+* [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) - Robert Johansson.
+* [Python NumPy tutorial](http://cs231n.github.io/python-numpy-tutorial/) - Justin Johnson, Stanford University.
+* [Real Python Python Data Science Tutorials](https://realpython.com/tutorials/data-science/)
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+* [List of Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) - Ujjwal Karn.
 
 # Videos
 
-
-# Blogs
-
+* [SciPy 2018: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gd-tNhm79CNMe_qvi35PgUR) - 97 YouTube videos.
+* [SciPy 2017: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5GfdAFycPLBdUDOUtdQIVoMf) - 91 YouTube videos.
+* [SciPy 2016: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6) - 92 YouTube videos.
+* [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu) - 116 YouTube videos.
+* [SciPy 2014: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog) - 121 YouTube videos.
+* [SciPy 2013: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y) - 33 YouTube videos.
 
 # License
 
