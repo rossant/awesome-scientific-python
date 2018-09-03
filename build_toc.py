@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 """Generate the table of contents and insert it at the top of README.md."""
 
 

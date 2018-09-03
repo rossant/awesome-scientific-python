@@ -31,7 +31,7 @@ A curated list of awesome scientific Python resources.
         * [Astrophysics](#astrophysics)
         * [Molecular simulations](#molecular-simulations)
         * [Bioinformatics](#bioinformatics)
-        * [Neuroimaging]](#neuroimaging)
+        * [Neuroimaging](#neuroimaging)
         * [Neuroscience](#neuroscience)
         * [Mathematics](#mathematics)
     * [Lists of libraries](#lists-of-libraries)
@@ -190,7 +190,7 @@ A curated list of awesome scientific Python resources.
 * [PyBioMed](https://pybiomed.readthedocs.io/en/latest/index.html) - Descriptors of biological molecules.
 * [khmer](https://github.com/dib-lab/khmer) - k-mer counting, filtering, and graph traversal.
 
-### Neuroimaging]
+### Neuroimaging
 
 * [NiBabel](https://github.com/nipy/nibabel) - Neuro-imaging file formats.
 * [Nilearn](https://nilearn.github.io/) - Machine learning for neuro-imaging.
