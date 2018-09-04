@@ -202,6 +202,8 @@ A curated list of awesome scientific Python resources.
 ### Neuroscience
 
 * [Brian2](https://github.com/brian-team/brian2) - Simulations of spiking neural networks.
+* [Spyking Circus](https://spyking-circus.readthedocs.io/en/latest/) - Spike sorting on large extracellular recordings.
+* [Klusta](https://github.com/kwikteam/klusta) - Spike detection and clustering-based spike sorting.
 * [phy](https://phy.readthedocs.io/en/latest/) - Manual spike sorting for high-density multielectrode arrays.
 * [NeuroTools](https://pythonhosted.org/NeuroTools/) - Tools for neural simulations.
 * [Neo](https://neo.readthedocs.io) - File formats for neuroscience.
