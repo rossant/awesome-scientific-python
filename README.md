@@ -146,6 +146,7 @@ A curated list of awesome scientific Python resources.
 
 * [PyMC3](http://docs.pymc.io/) - Bayesian statistical modeling.
 * [statsmodels](http://www.statsmodels.org/) - Statistical models.
+* [emcee](http://dfm.io/emcee/) - ensemble sampler for markov chain monte carlo.
 
 ### Compilation
 
