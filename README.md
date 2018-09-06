@@ -134,6 +134,7 @@ A curated list of awesome scientific Python resources.
 ### Graphs
 
 * [NetworkX](https://networkx.github.io/) - Graph and network structures and algorithms.
+* [Graph-tool](https://graph-tool.skewed.de/) - Manipulation and statistical analysis of graphs.
 
 ### Neural networks
 
