@@ -115,7 +115,7 @@ A curated list of awesome scientific Python resources.
 * [Altair](https://altair-viz.github.io/) - Declarative visualization in Python.
 * [seaborn](https://seaborn.pydata.org/) - Statistical data visualization.
 * [bqplot](https://github.com/bloomberg/bqplot) - 2D interactive visualization in Jupyter.
-* [ggplot2](https://github.com/tidyverse/ggplot2) - Grammar of Graphics implementation in Python.
+* [plotnine](https://plotnine.readthedocs.io/) - Grammar of Graphics implementation in Python based on ggplot2.
 * [plotly](https://plot.ly/python/) - Interactive data visualization on the web.
 * [HoloViews](http://holoviews.org/) - Data visualization library.
 
