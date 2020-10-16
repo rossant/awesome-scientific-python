@@ -124,6 +124,7 @@ A curated list of awesome scientific Python resources.
 * [ipyvolume](https://ipyvolume.readthedocs.io/en/latest/) - 3D visualization with Jupyter.
 * [VisPy](http://vispy.org/) - Interactive GPU-accelerated visualization.
 * [Glumpy](http://glumpy.github.io/) - Scientific visualization in modern OpenGL.
+* [vedo](https://vedo.embl.es/) - Scientific analysis and visualization based on VTK.
 
 ### Image processing
 
