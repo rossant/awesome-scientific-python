@@ -118,6 +118,7 @@ A curated list of awesome scientific Python resources.
 * [plotnine](https://plotnine.readthedocs.io/) - Grammar of Graphics implementation in Python based on ggplot2.
 * [plotly](https://plot.ly/python/) - Interactive data visualization on the web.
 * [HoloViews](http://holoviews.org/) - Data visualization library.
+* [Napari](https://github.com/napari/napari) - Multi-dimensional image viewer for python.
 
 ### 3D visualization
 
