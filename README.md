@@ -259,6 +259,7 @@ A curated list of awesome scientific Python resources.
 * [SciPy Lecture Notes](https://www.scipy-lectures.org/)
 * [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) - Robert Johansson.
 * [NumPy Illustrated - The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d?sk=57b908a77aa44075a49293fa1631dd9b) - Lev Maximov.
+* [NumPy - Arithmetic Operations](https://www.scaler.com/topics/numpy-arithmetic-operations/)
 * [Python NumPy tutorial](http://cs231n.github.io/python-numpy-tutorial/) - Justin Johnson, Stanford University.
 * [Real Python Python Data Science Tutorials](https://realpython.com/tutorials/data-science/)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
