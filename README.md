@@ -253,6 +253,7 @@ A curated list of awesome scientific Python resources.
 * [Python Course](https://www.python-course.eu/index.php) - Bernd Klein.
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science) - DataCamp, Filip Schouwenaars.
 * [Schools using Python](https://wiki.python.org/moin/SchoolsUsingPython) - on python.org.
+* [Python NumPy for Data Science](https://programiz.pro/course/python-numpy-for-data-science) - by Programiz PRO.
 
 # Tutorials
 
