@@ -267,6 +267,7 @@ A curated list of awesome scientific Python resources.
 
 # Videos
 
+* [SciPy 2023: Scientific Computing with Python Conference](https://youtube.com/playlist?list=PL1PbeFStIOoOd01KhBeba-byU5E5dJ716) - 59 YouTube videos.
 * [SciPy 2021: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5GesARqNMImG3NnX3_bWq-lT) - 61 YouTube videos.
 * [SciPy 2019: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5GcDQblpQ_M1V3PQPoLWiDAC) - 102 YouTube videos.
 * [SciPy 2018: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gd-tNhm79CNMe_qvi35PgUR) - 97 YouTube videos.
