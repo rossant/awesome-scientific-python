@@ -127,6 +127,7 @@ A curated list of awesome scientific Python resources.
 * [Glumpy](http://glumpy.github.io/) - Scientific visualization in modern OpenGL.
 * [vedo](https://vedo.embl.es/) - Scientific analysis and visualization based on VTK.
 * [PyVista](https://docs.pyvista.org/) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK).
+* [Datoviz](https://datoviz.org/) - 2D/3D high-performance GPU visualization with Vulkan.
 
 ### Image processing
 
