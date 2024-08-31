@@ -265,6 +265,7 @@ A curated list of awesome scientific Python resources.
 * [Real Python Python Data Science Tutorials](https://realpython.com/tutorials/data-science/)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [List of Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) - Ujjwal Karn.
+* [pyOpenSci Python Package Guide](https://www.pyopensci.org/python-package-guide/)
 
 # Videos
 
