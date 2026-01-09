@@ -26,6 +26,7 @@ A curated list of awesome scientific Python resources.
         * [Compilation](#compilation)
         * [Parallel computing](#parallel-computing)
         * [GPU computing](#gpu-computing)
+        * [Units and dimensional analysis](#units-and-dimensional-analysis)
     * [Domain-specific libraries](#domain-specific-libraries)
         * [Geospatial data](#geospatial-data)
         * [Astrophysics](#astrophysics)
@@ -167,6 +168,12 @@ A curated list of awesome scientific Python resources.
 
 * [CuPy](https://cupy.chainer.org/) - NumPy-like library with CUDA.
 * [PyCUDA](https://developer.nvidia.com/pycuda) - Use CUDA with Python.
+
+### Units and dimensional analysis
+
+* [dimtensor](https://github.com/marcoloco23/dimtensor) - Unit-aware tensors for physics with NumPy, PyTorch, and JAX support.
+* [Pint](https://pint.readthedocs.io/) - Physical quantities and unit conversion.
+* [unyt](https://unyt.readthedocs.io/) - Unit handling from the yt project.
 
 
 ## Domain-specific libraries
