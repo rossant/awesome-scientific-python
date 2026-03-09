@@ -26,6 +26,7 @@ A curated list of awesome scientific Python resources.
         * [Compilation](#compilation)
         * [Parallel computing](#parallel-computing)
         * [GPU computing](#gpu-computing)
+        * [Research automation](#research-automation)
     * [Domain-specific libraries](#domain-specific-libraries)
         * [Geospatial data](#geospatial-data)
         * [Astrophysics](#astrophysics)
@@ -167,6 +168,10 @@ A curated list of awesome scientific Python resources.
 
 * [CuPy](https://cupy.chainer.org/) - NumPy-like library with CUDA.
 * [PyCUDA](https://developer.nvidia.com/pycuda) - Use CUDA with Python.
+
+### Research automation
+
+* [SciTeX](https://github.com/ywatanabe1989/scitex-python) - Modular Python toolkit for scientific research with 200+ MCP tools.
 
 
 ## Domain-specific libraries
