@@ -267,6 +267,7 @@ A curated list of awesome scientific Python resources.
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [List of Python Data Science Tutorials](https://github.com/ujjwalkarn/DataSciencePython) - Ujjwal Karn.
 * [pyOpenSci Python Package Guide](https://www.pyopensci.org/python-package-guide/)
+* [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/scientific-computing) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 # Videos
 
