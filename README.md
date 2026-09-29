@@ -147,6 +147,10 @@ A curated list of awesome scientific Python resources.
 * [TensorFlow](https://www.tensorflow.org/) - Machine learning framework.
 * [Caffe](http://caffe.berkeleyvision.org/) - Deep learning framework.
 
+### Numerical methods
+
+* [scientific-computing-system](https://github.com/Furox-Art/scientific-computing-system) - Pure-Python numerical methods, ODE/PDE solvers, linear algebra, and statistics with readable implementations.
+
 ### Statistics
 
 * [PyMC3](http://docs.pymc.io/) - Bayesian statistical modeling.
