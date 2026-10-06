@@ -56,6 +56,7 @@ A curated list of awesome scientific Python resources.
 * [Jupyter](http://jupyter.org/) - Open interactive computing in many programming languages.
 * [Jupyter Notebook](http://jupyter.org/install) - Web-based environment for interactive computing.
 * [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) - Next-generation web-based interactive programming and computing environment.
+* [ipynbtopdf](https://ipynbtopdf.xyz/) - Browser-based Jupyter notebook viewer and PDF/HTML/Python exporter; files stay in your browser.
 
 ### NumPy
 
