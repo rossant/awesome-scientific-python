@@ -259,6 +259,7 @@ A curated list of awesome scientific Python resources.
 
 # Tutorials
 
+* [From finite-element simulations to a surrogate model](https://haoming-luo.github.io/agentfem/examples/simulation_to_surrogate/) - AgentFEM tutorial and NumPy notebook using ten published elasticity results to compare scalar surrogate features and held-out predictions.
 * [SciPy Lecture Notes](https://www.scipy-lectures.org/)
 * [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures) - Robert Johansson.
 * [NumPy Illustrated - The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d?sk=57b908a77aa44075a49293fa1631dd9b) - Lev Maximov.
