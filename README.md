@@ -221,6 +221,7 @@ A curated list of awesome scientific Python resources.
 
 * [Sage](http://www.sagemath.org) - Mathematics software system.
 * [mpmath](http://mpmath.org/) - arithmetic with arbitrary precision.
+* [QF Solver](https://github.com/emptiesvoid-cloud/QF_solver) - Python finite element solver for structural mechanics, including static and dynamic analyses and numerical verification.
 
 
 ## Lists of libraries
